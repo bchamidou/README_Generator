@@ -1,0 +1,22 @@
+{
+  "name": "readme_generator",
+  "version": "1.0.0",
+  "description": "09 Node.js Challenge: Professional README Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bchamidou/README_Generator.git"
+  },
+  "author": "Cheik H BAGAGNAN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bchamidou/README_Generator/issues"
+  },
+  "homepage": "https://github.com/bchamidou/README_Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
