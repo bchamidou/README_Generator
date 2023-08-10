@@ -1,5 +1,6 @@
 
-# Project: PROFESSIONAL README GENERATOR ![License Badge](https://img.shields.io/badge/License-MIT%20License-blue)
+# Project: PROFESSIONAL README GENERATOR
+ ![License Badge](https://img.shields.io/badge/License-MIT%20License-blue)
 
 ## Description
 ***
@@ -8,12 +9,12 @@ This app generates a readme file from user Professional README Generator prompts
 
 ## Table of Contents
 ***
-    - [Installation](#installation)
-    - [Project Usage](#usage)
-    - [Contributing](#contributing)
-    - [Tests](#tests)
-    - [Questions](#questions)
-    - [License](#license)
+- [Installation](#installation)
+- [Project Usage](#usage)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+- [License](#license)
 
 
 ## Installation
@@ -23,7 +24,7 @@ The installation can be completed by following these instructions:
 
         1. To install a Node JS project, install [Node JS](https://nodejs.org/)
         2. Clone the GitHub repository to you local computer. Click on the following link.
-        * Repository link : https://github.com/bchamidou/README_Generator  
+        * Repository link : https://github.com/bchamidou/README_Genarator  
 
 ## Usage 
 ***

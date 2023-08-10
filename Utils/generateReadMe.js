@@ -154,7 +154,8 @@ function renderTest(answers){
 
 function generateReadMe(answers){ 
     return`
-# Project: ${answers.title} ![License Badge](${renderLicenseBadge(answers.license)})
+# Project: ${answers.title}
+ ![License Badge](${renderLicenseBadge(answers.license)})
 
 ## Description
 ***
@@ -163,12 +164,12 @@ ${answers.description}
 
 ## Table of Contents
 ***
-    - [Installation](#installation)
-    - [Project Usage](#usage)
-    - [Contributing](#contributing)
-    - [Tests](#tests)
-    - [Questions](#questions)
-    - [License](#license)
+- [Installation](#installation)
+- [Project Usage](#usage)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+- [License](#license)
 
 
 ## Installation
