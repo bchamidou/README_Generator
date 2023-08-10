@@ -30,7 +30,8 @@ The installation can be completed by following these instructions:
 ***
 
 To execute the script, open a Git terminal on the main project folder (cloned folder) Run the following command: ```node index.js```.  
-<video src="assets/Readme_generator.mp4" controls title="Readme_generator"></video>
+
+![Demo](assets/Readme_generator.gif)
 
 A video with a demo of the script of the script can be obtained here: 
 https://streamable.com/llg4a8
