@@ -163,12 +163,12 @@ ${answers.description}
 
 ## Table of Contents
 ***
-    - [Installation](#Installation)
-    - [Project Usage](#Usage)
-    - [Contributing](#Contributing)
-    - [Tests](#Tests)
-    - [Questions](#Questions)
-    - [License](#License)
+    - [Installation](#installation)
+    - [Project Usage](#usage)
+    - [Contributing](#contributing)
+    - [Tests](#tests)
+    - [Questions](#questions)
+    - [License](#license)
 
 
 ## Installation

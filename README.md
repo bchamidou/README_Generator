@@ -8,12 +8,12 @@ This app generates a readme file from user Professional README Generator prompts
 
 ## Table of Contents
 ***
-    - [Installation](#Installation)
-    - [Project Usage](#Usage)
-    - [Contributing](#Contributing)
-    - [Tests](#Tests)
-    - [Questions](#Questions)
-    - [License](#License)
+    - [Installation](#installation)
+    - [Project Usage](#usage)
+    - [Contributing](#contributing)
+    - [Tests](#tests)
+    - [Questions](#questions)
+    - [License](#license)
 
 
 ## Installation
