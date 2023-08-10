@@ -1,5 +1,5 @@
 
-    # Project: PROFESSIONAL README GENERATOR ![License Badge](![License Badge](https://shields.io/badge/license-MIT License-green))
+    # Project: PROFESSIONAL README GENERATOR ![License Badge](https://img.shields.io/badge/License-MIT%20License-blue)
 
     ## Description
     ***
@@ -23,18 +23,12 @@
     
             1. To install a Node JS project, install [Node JS](https://nodejs.org/)
             2. Clone the GitHub repository to you local computer. Click on the following link.
-            * Repository link : https://github.com/bchamidou/bchamidou  
+            * Repository link : https://github.com/bchamidou/README_Generator  
     
     ## Usage 
     ***
 
     To execute the script, open a Git terminal on the main project folder (cloned folder) Run the following command: ```node index.js```.  
-
-     <video src="assets/Readme_generator.mp4" controls title="Readme_generator Demo"></video> 
-
-     . A video with a demo of the script of the script can be obtained here:
-      https://streamable.com/llg4a8
-
 
     ## Contributing
     ***
